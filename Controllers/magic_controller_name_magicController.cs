@@ -1,6 +1,6 @@
 using Microsoft.AspNet.Mvc;
 
-namespace Templates.ApiApp.Controllers
+namespace magic_github_owner_magic.magic_github_repo_magic.Controllers
 {
 	[Route("api/[controller]")]
 	public class magic_controller_name_magicController : Controller
