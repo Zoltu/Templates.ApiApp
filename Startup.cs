@@ -6,7 +6,7 @@ using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Logging;
 using Swashbuckle.SwaggerGen;
 
-namespace Templates.ApiApp
+namespace magic_github_owner_magic.magic_github_repo_magic
 {
 	public class Startup
 	{
